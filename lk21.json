@@ -23,6 +23,27 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=amp.lk21official.mom",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 25021,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FilmApik",
+        "description": "Film Apik",
+        "url": "https://raw.githubusercontent.com/rizal2gb/cs3/master/FilmA.cs3",
+        "name": "FilmApik"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=amp.lk21official.mom",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
         "fileSize": 19301,
         "status": 1,
         "language": "id",
@@ -1289,47 +1310,5 @@
         "internalName": "YugenAnime",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/YugenAnime.cs3",
         "name": "YugenAnime"
-    },
-{
-        "iconUrl": "https://www.google.com/s2/favicons?domain=amp.lk21official.mom",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 19301,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 22,
-        "internalName": "LK21",
-        "description": "LK21 New",
-        "url": "https://raw.githubusercontent.com/rizal2gb/cs3/master/LK21.cs3",
-        "name": "LK21"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=amp.lk21official.mom",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 25021,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "FilmApik",
-        "description": "Film Apik",
-        "url": "https://raw.githubusercontent.com/rizal2gb/cs3/master/FilmA.cs3",
-        "name": "FilmApik"
     }
 ]
