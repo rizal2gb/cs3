@@ -3,6 +3,6 @@
     "description": "Providers from all country",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/rizal2gb/cs3/master/lk21.json"
+        "https://raw.githubusercontent.com/rizal2gb/cs3/main/lk21.json"
     ]
 }
