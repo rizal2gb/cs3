@@ -1315,7 +1315,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=amp.lk21official.mom",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 19301,
+        "fileSize": 25021,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1326,9 +1326,9 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 22,
+        "version": 1,
         "internalName": "FilmApik",
-        "description": "FilmApik",
+        "description": "Film Apik",
         "url": "https://raw.githubusercontent.com/rizal2gb/cs3/master/FilmA.cs3",
         "name": "FilmApik"
     }
